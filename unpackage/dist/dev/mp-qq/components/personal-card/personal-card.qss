@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * 使用的时候，请将下面的一行复制到您的uniapp项目根目录的uni.scss中即可
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.btn-icon {
+  width: 70rpx;
+  height: 70rpx;
+  border-radius: 35rpx;
+  box-shadow: 0 0 2.5px 2.5px rgba(0, 0, 0, 0.06), 0 0 5px 5px rgba(0, 0, 0, 0.02);
+}
+.btn-icon .count {
+  font-size: 20rpx;
+}
+

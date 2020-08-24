@@ -1,0 +1,36 @@
+.shadow-md{
+	box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06),0 -1px 6px -1px rgba(0, 0, 0, 0.1);
+}
+.border-lg{
+	border-radius: 20rpx;
+}
+
+.font-main{
+	color: #303133;
+}
+
+.font-content{
+	color: #606266;
+}
+
+.font-tips{
+	color:#909399;
+}
+
+.font-title{
+	color:#c0c4cc;
+}
+
+.font-sm{
+	font-size: 24rpx;
+}
+.font-base{
+	font-size: 28rpx;
+}
+.font-lg{
+	font-size: 32rpx;
+}
+
+.space-x-1 > * {
+	margin-left: 40rpx;
+}

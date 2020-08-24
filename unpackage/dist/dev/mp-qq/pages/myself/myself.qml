@@ -1,0 +1,1 @@
+<view><personal-card vue-id="8484d9e0-1" bind:__l="__l"></personal-card></view>
